@@ -1,5 +1,9 @@
-# jc-dip
-Welcome to the Journal Club of the Department of Image Processing of Institute of Information Theory and Automation of Czech Academy of Sciences
+# Journal Club of the [Department of Image Processing](http://zoi.utia.cas.cz/)
 
-Djjdasjd
-fsf
+## 1. Topic block - Key Concepts in Visual Attention
+### Essential papers 
+1. Attention is all you need (Vaswani 2017) \[[pdf](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)\]
+2. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Dosovitskiy et al. 2021) \[[pdf](https://arxiv.org/pdf/2010.11929.pdf)\] 
+
+
+
